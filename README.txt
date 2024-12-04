@@ -28,3 +28,8 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+
+
+I used this as a template for my portfolio. I diplayed 3 of my games and a 3D model of my clouds. On this portfolio, I presented what I was able to accomplish during this semester.
